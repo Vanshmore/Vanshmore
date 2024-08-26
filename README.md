@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh More</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshmore&label=Profile%20views&color=0e75b6&style=flat" alt="vanshmore" /> </p>
-
-- 🔭 I’m currently working on **AI based virtual try on**
-
-- 🌱 I’m currently learning **Image processing, NLP**
-
-- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **morevansh2003@gmail.com**
 
@@ -17,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vansh-more-a6a229225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-more-a6a229225" height="30" width="40" /></a>
 <a href="https://instagram.com/vansh._.more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh._.more" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/morevansh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="morevansh2003" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
